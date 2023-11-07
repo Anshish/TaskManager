@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding: 0;
+    background-color: #c5cbe3;
+}
+
+.container{
+    background-color: #c5cbe3;
+}
+
+.bar{
+    background-color: #efe2ba;
+}
+
+h1{
+    font-family: 'Agbalumo';
+}
